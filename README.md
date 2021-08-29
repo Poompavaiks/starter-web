@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 This can be deployed anywhere
+
+### Copyrights
+
+2021 Github.Training
