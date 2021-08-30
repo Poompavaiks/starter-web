@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Example for comparison
+This repository is to practise on GitHub
 
 ## Purpose
 
