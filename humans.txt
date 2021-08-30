@@ -9,6 +9,7 @@
 # THANKS
 
     Course instructor
+	Leave review if liked the course
 
 # TECHNOLOGY COLOPHON
 
