@@ -16,4 +16,4 @@ This can be deployed anywhere
 
 ### Copyrights
 
-2021 Github.Training
+2021 Github.Training .All Rights Reserved .
